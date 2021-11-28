@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/about/</loc>
-<lastmod>2021-11-28T18:50:13+00:00</lastmod>
+<lastmod>2021-11-28T18:50:34+00:00</lastmod>
 </url>
 <url>
 <loc>/blog/</loc>
-<lastmod>2021-11-28T18:50:13+00:00</lastmod>
+<lastmod>2021-11-28T18:50:34+00:00</lastmod>
 </url>
 <url>
 <loc>/</loc>
-<lastmod>2021-11-28T18:50:13+00:00</lastmod>
+<lastmod>2021-11-28T18:50:34+00:00</lastmod>
 </url>
 <url>
 <loc>/projects/</loc>
-<lastmod>2021-11-28T18:50:13+00:00</lastmod>
+<lastmod>2021-11-28T18:50:34+00:00</lastmod>
 </url>
 <url>
 <loc>/blog/it-is-never-too-late-to-be-what-you-might-have-been</loc>
@@ -57,10 +57,6 @@
 <lastmod>2002-01-10T04:50:00+00:00</lastmod>
 </url>
 <url>
-<loc>/project/green-plant</loc>
-<lastmod>2011-01-05T02:20:00+00:00</lastmod>
-</url>
-<url>
 <loc>/project/low-light-image-enhancement</loc>
 <lastmod>2021-01-01T23:54:00+00:00</lastmod>
 </url>
@@ -75,6 +71,10 @@
 <url>
 <loc>/project/meetpoint</loc>
 <lastmod>2021-01-01T23:59:00+00:00</lastmod>
+</url>
+<url>
+<loc>/project/green-plant</loc>
+<lastmod>2021-01-05T02:20:00+00:00</lastmod>
 </url>
 <url>
 <loc>/project/the-rocks</loc>
