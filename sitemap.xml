@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/about/</loc>
-<lastmod>2021-11-29T03:51:23+00:00</lastmod>
+<lastmod>2021-11-29T03:53:53+00:00</lastmod>
 </url>
 <url>
 <loc>/blog/</loc>
-<lastmod>2021-11-29T03:51:23+00:00</lastmod>
+<lastmod>2021-11-29T03:53:53+00:00</lastmod>
 </url>
 <url>
 <loc>/</loc>
-<lastmod>2021-11-29T03:51:23+00:00</lastmod>
+<lastmod>2021-11-29T03:53:53+00:00</lastmod>
 </url>
 <url>
 <loc>/projects/</loc>
-<lastmod>2021-11-29T03:51:23+00:00</lastmod>
+<lastmod>2021-11-29T03:53:53+00:00</lastmod>
 </url>
 <url>
 <loc>/blog/believe-and-act-as-if-it-were-impossible-to-fail</loc>
@@ -27,6 +27,10 @@
 <url>
 <loc>/blog/strive-not-to-be-a-success-but-rather-to-be-of-value</loc>
 <lastmod>2018-11-11T12:01:35+00:00</lastmod>
+</url>
+<url>
+<loc>/blog/7th-in-credit-suisse-2020-codeit-suisse</loc>
+<lastmod>2020-09-30T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>/blog/top-4-in-shopee-code-league-2021</loc>
@@ -82,6 +86,12 @@
 </url>
 <url>
 <loc>/tag/notes.html</loc>
+</url>
+<url>
+<loc>/tag/competitions.html</loc>
+</url>
+<url>
+<loc>/tag/algorithms.html</loc>
 </url>
 <url>
 <loc>/tag/kaggle.html</loc>
